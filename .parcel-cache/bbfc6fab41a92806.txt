@@ -1,0 +1,12 @@
+11
+51C:\Users\PC\OneDrive\Bureau\HanoiTower\package.json133136639172226064 0
+56C:\Users\PC\OneDrive\Bureau\HanoiTower\src\js\scripts.js133136641286053842 0
+43C:\Users\PC\OneDrive\Bureau\HanoiTower\dist133136640439596718 1
+42C:\Users\PC\OneDrive\Bureau\HanoiTower\src133136640086059249 1
+45C:\Users\PC\OneDrive\Bureau\HanoiTower\src\js133136640436919907 1
+53C:\Users\PC\OneDrive\Bureau\HanoiTower\src\index.html133136640346579543 0
+70C:\Users\PC\OneDrive\Bureau\HanoiTower\dist\HanoiTower.59712999.js.map133136639652189072 0
+66C:\Users\PC\OneDrive\Bureau\HanoiTower\dist\HanoiTower.59712999.js133136639652149169 0
+61C:\Users\PC\OneDrive\Bureau\HanoiTower\dist\index.64a4978e.js133136640438693342 0
+65C:\Users\PC\OneDrive\Bureau\HanoiTower\dist\index.64a4978e.js.map133136640438789817 0
+54C:\Users\PC\OneDrive\Bureau\HanoiTower\dist\index.html133136640439576773 0
